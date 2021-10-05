@@ -1,4 +1,4 @@
-img{
+img{// Modifies images on site
     height: 300px;
     display: block;
   margin-left: auto;
@@ -6,12 +6,12 @@ img{
   
 }
 
-header{
+header{// Modifies header part of HTML code
    text-align: center; 
    background-color: aqua;
 }
 
-#about{
+#about{// Modifies About Me Section
     text-align: center;
     background-color: aqua;
 }
